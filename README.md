@@ -1,10 +1,7 @@
-<p align="center">
-  <!-- First Animation: Name in Blue -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=30&center=true&vCenter=true&width=600&lines=Anas+Norani" />
-
-  <!-- Second Animation: Other Details in Gold -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=24&center=true&vCenter=true&width=600&lines=Flutter+Developer+🚀;Python+Learner+🐍;API+%7C+Firebase+%7C+Database+Explorer;Always+Learning+New+Techs!+🔥" />
-</p>
+ 
+<h1 align="center">  
+Assalam.o.Alaikum !, I'm Anas Norani! 👨‍💻  
+</h1>  
 
 
 ## 🌟 **About Me**
