@@ -1,12 +1,11 @@
-<h1 align="center">  
-🚀 Hi, I'm <span style="color:#1E90FF;">Anas Norani</span>! 👨‍💻  
-</h1>  
+<p align="center">
+  <!-- First Animation: Name in Blue -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=30&center=true&vCenter=true&width=600&lines=Anas+Norani" />
 
-<p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=24&center=true&vCenter=true&width=600&lines=Hi,+I'm+%3Cspan+style='color:blue'%3EAnas+Norani%3C/span%3E!;Flutter+Developer+🚀;Python+Learner+🐍;API+%7C+Firebase+%7C+Database+Explorer;Always+Learning+New+Techs!+🔥" />  
-</p>  
+  <!-- Second Animation: Other Details in Gold -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=24&center=true&vCenter=true&width=600&lines=Flutter+Developer+🚀;Python+Learner+🐍;API+%7C+Firebase+%7C+Database+Explorer;Always+Learning+New+Techs!+🔥" />
+</p>
 
----
 
 ## 🌟 **About Me**
 🎯 **Self-taught developer** passionate about building **Flutter Apps**, learning **Python**, and exploring **APIs, Firebase, and Databases**.  
