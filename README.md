@@ -6,7 +6,8 @@ Assalam.o.Alaikum !, I'm Anas Norani! 👨‍💻
 
 
 
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=>_+Anas+Norani;>>_+Flutter+%7C+Python+%7C+APIs;>>>_+Backend+%7C+Firebase+%7C+Databases;>>>>_+Dark+Mode+Lover+🖤
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=>_+Anas+Norani;>>_+Flutter+%7C+Python+%7C+APIs;>>>_+Backend+%7C+Firebase+%7C+Databases;>>>>_+Dark+Mode+Lover+🖤;>>>>_+$(curl+-s+https://api.quotable.io
 
  
 
@@ -27,7 +28,7 @@ https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pau
 ## 🔥 **Tech Stack**
 <table>
 <tr>
-<td align="center"><b>Languages</b></td>
+<td align="center"><b>Languages</b></p>
 <td>  
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
