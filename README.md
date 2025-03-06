@@ -89,7 +89,7 @@ Assalam.o.Alaikum !, I'm Anas Norani! 👨‍💻
 
 ## 📫 **Let's Connect**
 🌍 **Portfolio Website**: Coming Soon... 🚀  
-📩 **Email**: [anas@example.com](mailto:anas@example.com)  
+📩 **Email**: [AnasNorani](mailto:anasnorani47@gmail.com)  
 🐦 **Twitter**: [@YourTwitterHandle](https://twitter.com/)  
 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/)
 
