@@ -5,11 +5,7 @@ Assalam.o.Alaikum !, I'm Anas Norani! 👨‍💻
 
 
 
-
-![Random Coding Quote](https://api.quotable.io/random?tags=technology,programming,inspirational)
-
-
-
+ 
 
 
 
