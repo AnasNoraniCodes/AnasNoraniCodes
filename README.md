@@ -7,9 +7,9 @@ Assalam.o.Alaikum !, I'm Anas Norani! 👨‍💻
 
 
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=>_+Anas+Norani;>>_+Flutter+%7C+Python+%7C+APIs;>>>_+Backend+%7C+Firebase+%7C+Databases;>>>>_+Dark+Mode+Lover+🖤;>>>>_+$(curl+-s+https://api.quotable.io
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=>_+Anas+Norani;>>_+Flutter+%7C+Python+%7C+APIs;>>>_+Backend+%7C+Firebase+%7C+Databases;>>>>_+Dark+Mode+Lover+🖤;>>>>_+$(curl+-s+https://api.quotable.io/random?tags=technology+%7C+programming+%7C+inspirational+%7C+science+%7C+famous+quotes+%7C+technology+quotes+%7C+coding+quotes+%7C+software+development+quotes|jq+-r+'.content')" />
+</p>
 
- 
 
 
 
@@ -28,7 +28,7 @@ Assalam.o.Alaikum !, I'm Anas Norani! 👨‍💻
 ## 🔥 **Tech Stack**
 <table>
 <tr>
-<td align="center"><b>Languages</b></p>
+<td align="center"><b>Languages</b></td>
 <td>  
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
