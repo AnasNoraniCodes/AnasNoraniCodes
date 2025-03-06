@@ -91,7 +91,7 @@ Assalam.o.Alaikum !, I'm Anas Norani! 👨‍💻
 🌍 **Portfolio Website**: Coming Soon... 🚀  
 📩 **Email**: [AnasNorani](mailto:anasnorani47@gmail.com)  
  **Whatsapp**: (+923090271051)  
-💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/)
+ 
 
 ---
 
