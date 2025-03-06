@@ -4,6 +4,18 @@ Assalam.o.Alaikum !, I'm Anas Norani! 👨‍💻
 </h1>  
 
 
+<p align="center">
+  <!-- Glitch Effect on Name -->
+  <a href="https://github.com/AnasNoraniCodes">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=0F52BA&center=true&vCenter=true&width=600&lines=Anas+Norani" />
+  </a>
+
+  <!-- Dark-Themed Skills Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=9A9A9A&center=true&vCenter=true&width=600&lines=Flutter+Developer+🚀;Python+Learner+🐍;API+%7C+Firebase+%7C+Database+Explorer;Always+Learning+New+Techs!+🔥" />
+</p>
+
+
+
 ## 🌟 **About Me**
 🎯 **Self-taught developer** passionate about building **Flutter Apps**, learning **Python**, and exploring **APIs, Firebase, and Databases**.  
 🚀 Started with **C++** → **Flutter & Dart** → **GitHub** → Now mastering **Python & Backend Development**.  
