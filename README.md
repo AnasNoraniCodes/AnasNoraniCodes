@@ -3,10 +3,17 @@
 Assalam.o.Alaikum !, I'm Anas Norani! 👨‍💻  
 </h1>  
 
+<!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=>_+Anas+Norani;>>_+Flutter+%7C+Python+%7C+APIs;>>>_+Backend+%7C+Firebase+%7C+Databases;>>>>_+Dark+Mode+Lover+🖤" />
+  <a href="https://github.com/AnasNoraniCodes">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=>_+Anas+Norani;>>>_+Flutter+Dev+🚀;>>>>_+Python+Learner+🐍;>>>>>_+Backend+%7C+APIs+%7C+Firebase;>>>>>>_+Tech+Explorer+%7C+Database+Lover;>>>>>>_+Open+Source+Contributor+💙" />
+  </a>
 </p>
 
+<!-- Animated GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
+</p>
 
 
 
