@@ -3,10 +3,7 @@
 Assalam.o.Alaikum !, I'm Anas Norani! 👨‍💻  
 </h1>  
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7bu8sRnYpTOG1p8k/giphy.gif" width="600" />
-</p>
+ 
 
  <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
