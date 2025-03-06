@@ -95,6 +95,4 @@ Assalam.o.Alaikum !, I'm Anas Norani! 👨‍💻
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=20&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Star+some+projects+if+you+like+them!+%E2%AD%90"/>
-</p>
+ 
