@@ -1,6 +1,6 @@
  
 <h1 align="center">  
-Assalam.o.Alaikum !, I'm Anas Norani! 👨‍💻  
+Assalam.o.Alaikum !, I'm Muhammad Anas Norani! 👨‍💻  
 </h1>  
 
  
