@@ -15,10 +15,6 @@
 
 
 
-## 🌟 **About Me**
-🎯 **Self-taught developer** passionate about building **Flutter Apps**, learning **Python**, and exploring **APIs, Firebase, and Databases**.  
-🚀 Started with **C++** → **Flutter & Dart** → **GitHub** → Now mastering **Python & Backend Development**.  
-💡 Always **learning, building, and experimenting** with new technologies!
 
 ---
 
@@ -59,19 +55,6 @@
 </tr>
 </table>
 
----
-
-## 🚀 **What I'm Currently Learning**
-✅ **Python & Backend Development (Flask, FastAPI, Django)**  
-✅ **Building REST APIs & Integrating Firebase with Flutter**  
-✅ **SQL & NoSQL Databases (PostgreSQL, Firebase Firestore, MongoDB)**  
-✅ **Advanced Git & Open Source Contributions**
-
----
-
-## 💻 **My Latest Projects**
-🔹 **[Calculator App](https://github.com/AnasNoraniCodes/Calculator_App)** → A beautiful and advanced calculator built with Flutter.  
-🔹 **More exciting projects coming soon...**
 
 ---
 
@@ -83,14 +66,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasNoraniCodes&theme=tokyonight" width="100%"/>
-</p>
-
----
-
-## 📫 **Let's Connect**
-🌍 **Portfolio Website**: Coming Soon... 🚀  
-📩 **Email**: [AnasNorani](mailto:anasnorani47@gmail.com)  
- **Whatsapp**: (+923090271051)  
+</p
  
 
 ---
